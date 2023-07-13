@@ -9,8 +9,10 @@ namespace BasicPrograms
             //flipcoin.Play();
             //LeapYear leapYear = new LeapYear();
             //leapYear.CheckLeapYear();
-            PowerOf2 powerOf2 = new PowerOf2();
-            powerOf2.PrintPowerOf2();
+            //PowerOf2 powerOf2 = new PowerOf2();
+            //powerOf2.PrintPowerOf2();
+            HarmonicNumber harmonicNumber = new HarmonicNumber();
+            harmonicNumber.PrintHarmonicNumber();
         }
 
     }
