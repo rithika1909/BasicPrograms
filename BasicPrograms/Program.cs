@@ -11,8 +11,10 @@ namespace BasicPrograms
             //leapYear.CheckLeapYear();
             //PowerOf2 powerOf2 = new PowerOf2();
             //powerOf2.PrintPowerOf2();
-            HarmonicNumber harmonicNumber = new HarmonicNumber();
-            harmonicNumber.PrintHarmonicNumber();
+            //HarmonicNumber harmonicNumber = new HarmonicNumber();
+            //harmonicNumber.PrintHarmonicNumber();
+            Factors factors = new Factors();
+            factors.PrintFactors();
         }
 
     }
