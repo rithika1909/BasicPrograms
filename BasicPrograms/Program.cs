@@ -15,8 +15,10 @@ namespace BasicPrograms
             //harmonicNumber.PrintHarmonicNumber();
             //Factors factors = new Factors();
             //factors.PrintFactors();
-            QuotientRemainder quotientRemainder = new QuotientRemainder();
-            quotientRemainder.PrintQuotientRemainder();
+            //QuotientRemainder quotientRemainder = new QuotientRemainder();
+            //quotientRemainder.PrintQuotientRemainder();
+            LargestNumber largestNumber = new LargestNumber();
+            largestNumber.FindLargestNum();
         }
 
     }
