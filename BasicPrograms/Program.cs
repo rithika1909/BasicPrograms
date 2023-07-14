@@ -13,8 +13,10 @@ namespace BasicPrograms
             //powerOf2.PrintPowerOf2();
             //HarmonicNumber harmonicNumber = new HarmonicNumber();
             //harmonicNumber.PrintHarmonicNumber();
-            Factors factors = new Factors();
-            factors.PrintFactors();
+            //Factors factors = new Factors();
+            //factors.PrintFactors();
+            QuotientRemainder quotientRemainder = new QuotientRemainder();
+            quotientRemainder.PrintQuotientRemainder();
         }
 
     }
